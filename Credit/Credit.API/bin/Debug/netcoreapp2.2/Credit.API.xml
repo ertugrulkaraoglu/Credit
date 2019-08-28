@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Credit.API</name>
+    </assembly>
+    <members>
+        <member name="M:Credit.API.Controllers.CustomerController.GetCreditAvailibility(Credit.API.Models.Request.CustomerCreditRequest)">
+            <summary>
+            This method gets credit availibility by identity number and credit score.
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

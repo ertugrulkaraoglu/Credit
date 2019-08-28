@@ -1,0 +1,17 @@
+C:\Users\Er\source\repos\Credit\Credit.Entities\bin\Debug\netcoreapp2.2\Credit.Entities.deps.json
+C:\Users\Er\source\repos\Credit\Credit.Entities\bin\Debug\netcoreapp2.2\Credit.Entities.dll
+C:\Users\Er\source\repos\Credit\Credit.Entities\bin\Debug\netcoreapp2.2\Credit.Entities.pdb
+C:\Users\Er\source\repos\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.csprojAssemblyReference.cache
+C:\Users\Er\source\repos\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Er\source\repos\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.AssemblyInfoInputs.cache
+C:\Users\Er\source\repos\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.AssemblyInfo.cs
+C:\Users\Er\source\repos\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.dll
+C:\Users\Er\source\repos\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.pdb
+C:\Users\Er\source\repos\Credit\Credit\Credit.Entities\bin\Debug\netcoreapp2.2\Credit.Entities.deps.json
+C:\Users\Er\source\repos\Credit\Credit\Credit.Entities\bin\Debug\netcoreapp2.2\Credit.Entities.dll
+C:\Users\Er\source\repos\Credit\Credit\Credit.Entities\bin\Debug\netcoreapp2.2\Credit.Entities.pdb
+C:\Users\Er\source\repos\Credit\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Er\source\repos\Credit\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.AssemblyInfoInputs.cache
+C:\Users\Er\source\repos\Credit\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.AssemblyInfo.cs
+C:\Users\Er\source\repos\Credit\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.dll
+C:\Users\Er\source\repos\Credit\Credit\Credit.Entities\obj\Debug\netcoreapp2.2\Credit.Entities.pdb

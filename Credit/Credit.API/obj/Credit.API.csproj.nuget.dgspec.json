@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.API\\Credit.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.API\\Credit.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.API\\Credit.API.csproj",
+        "projectName": "Credit.API",
+        "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.API\\Credit.API.csproj",
+        "packagesPath": "C:\\Users\\Er\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Er\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Business\\Credit.Business.csproj": {
+                "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Business\\Credit.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "MicroElements.Swashbuckle.FluentValidation": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Business\\Credit.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Business\\Credit.Business.csproj",
+        "projectName": "Credit.Business",
+        "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Business\\Credit.Business.csproj",
+        "packagesPath": "C:\\Users\\Er\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Er\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Core\\Credit.Core.csproj": {
+                "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Core\\Credit.Core.csproj"
+              },
+              "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Data\\Credit.Data.csproj": {
+                "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Data\\Credit.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Core\\Credit.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Core\\Credit.Core.csproj",
+        "projectName": "Credit.Core",
+        "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Core\\Credit.Core.csproj",
+        "packagesPath": "C:\\Users\\Er\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Er\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Entities\\Credit.Entities.csproj": {
+                "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Entities\\Credit.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Data\\Credit.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Data\\Credit.Data.csproj",
+        "projectName": "Credit.Data",
+        "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Data\\Credit.Data.csproj",
+        "packagesPath": "C:\\Users\\Er\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Er\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Core\\Credit.Core.csproj": {
+                "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Core\\Credit.Core.csproj"
+              },
+              "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Entities\\Credit.Entities.csproj": {
+                "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Entities\\Credit.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Entities\\Credit.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Entities\\Credit.Entities.csproj",
+        "projectName": "Credit.Entities",
+        "projectPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Entities\\Credit.Entities.csproj",
+        "packagesPath": "C:\\Users\\Er\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Er\\source\\repos\\Credit\\Credit\\Credit.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Er\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
